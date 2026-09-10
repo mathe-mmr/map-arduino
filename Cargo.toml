@@ -1,11 +1,11 @@
 [package]
 name = "map-arduino"
-version = "0.1.4"
+version = "0.1.5"
 edition = "2024"
 description = "Adds functions to remap an number from one range to another, similar to the one you get in Arduino."
 license = " LGPL-3.0-or-later"
 readme = "README.md"
-repository = "https://github.com/Mircas001/map-arduino/"
+repository = "https://github.com/mathe-mmr/map-arduino.git"
 
 [lib]
 name = "map_arduino"
